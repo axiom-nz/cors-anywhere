@@ -3,6 +3,7 @@
 *.log
 
 .env
+fly.toml
 
 .ssh/
 coverage/
